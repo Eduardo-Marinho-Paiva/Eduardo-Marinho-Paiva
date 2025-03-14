@@ -1,8 +1,8 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=F7F7F7&vCenter=true&random=false&width=435&lines=Bem+Vindo+%F0%9F%96%96;Meu+nome+%C3%A9+Eduardo+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 * 22 anos
 * Técnico em Informática **IFRN**
-* Estudante de Ciência da Computação [3/8] **UERN**
-* Estudando JavaScript, PHP e CSS
+* Estudante de Ciência da Computação [5/8] **UERN**
+* Estudando Análise de Dados e suas aplicações em Python, Tableu, R e PowerBI
 
 ![](https://komarev.com/ghpvc/?username=Eduardo-Marinho-Paiva&label=Profile+Views)
 ## Tecnologias que uso
